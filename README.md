@@ -1,2 +1,2 @@
-# slotmachine
+# Slotmachine
 JavaScript Software-Engineering Slotmachine
