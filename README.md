@@ -1,2 +1,2 @@
 # Slotmachine
-JavaScript Software-Engineering Slotmachine
+JavaScript Spiel mit CSS Sprites
